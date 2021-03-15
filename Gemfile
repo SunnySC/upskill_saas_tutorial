@@ -34,6 +34,9 @@ gem 'font-awesome-sass', '4.6.2'
 #Use Hirb for better table display in console
 gem 'hirb', '0.7.3'
 
+#Use Devise for user authentication
+gem 'devise', '4.2.0'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
