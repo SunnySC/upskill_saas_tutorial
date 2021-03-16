@@ -5,3 +5,5 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+Plan.create(name: 'basic', price: 0) ##Using this to create records within the database file
+Plan.create(name: 'pro', price: 10) ##Using this to create records within the database file
