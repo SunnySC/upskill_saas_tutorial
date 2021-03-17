@@ -37,6 +37,12 @@ gem 'hirb', '0.7.3'
 #Use Devise for user authentication
 gem 'devise', '4.4.0'
 
+#Use Stripe for payment processing
+gem 'stripe', '1.48.0'
+
+#Use Figaro for ENV variables
+gem 'figaro', '1.2.0'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
